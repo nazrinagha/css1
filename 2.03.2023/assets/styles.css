@@ -1,0 +1,23 @@
+
+.Head{
+    max-width: 250px;
+    margin: auto;
+    text-align: center;
+}
+
+.image{
+    float: right;
+}
+
+img{
+    width: 210px;   
+    height: 180px;
+}
+
+
+hr{
+    background-color: green;
+    width: 95%;
+    height: 4px;
+}  
+
